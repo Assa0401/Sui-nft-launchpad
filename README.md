@@ -25,7 +25,7 @@ This is a mint launchpad designed to mint unique NFTs, featuring whitelist acces
 ### 1. Setup
 
 - Clone the repository and install dependencies:
-  git clone https://github.com/muffin819/nft-launchpad-sui.git
+  git clone https://github.com/0xalberto/Sui-nft-launchpad.git
   cd nft-launchpad
   npm install
 
@@ -41,6 +41,6 @@ This is a mint launchpad designed to mint unique NFTs, featuring whitelist acces
 
 ### ✉ Connect With Me:
 
-[![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ProDogeLover)
-[![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rizzmuffin24@gmail.com)
-[![Telegram Badge](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/dogewhiz)
+[![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/0xalberto1)
+[![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:super1114dev@gmail.com)
+[![Telegram Badge](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/soladity)
